@@ -17,7 +17,7 @@ int main()
 
     // Modificar el valor original a traves del pointer
     *pptr = 100;
-    cout << "precio despues de *pptr = 100: " << precio << endl;
+    cout << "precio despues de *pptr = 100:" << precio << endl;
 
-    return 0;
+    return 0;    
 }
