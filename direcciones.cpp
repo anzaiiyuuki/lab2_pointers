@@ -24,6 +24,6 @@ int main()
     //cout<<<"malptr apunta a: " << *malptr << endl;
 
    // int *sininicializar; pointer q apunta a lo random!
-   // cout << "pointer sin inicializar: " << sininicializar << endl;
+   // cout << "pointer sin inicializar: " << sininicializar << endl;    
     return 0;
 }
